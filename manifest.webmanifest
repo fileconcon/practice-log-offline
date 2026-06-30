@@ -1,7 +1,7 @@
 {
   "name": "Cue Note",
   "short_name": "Cue Note",
-  "description": "ビリヤード練習を記録するアプリ（端末内保存）",
+  "description": "ビリヤード練習の気づきを記録するノート（端末内保存）",
   "lang": "ja",
   "start_url": "./",
   "scope": "./",
